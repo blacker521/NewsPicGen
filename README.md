@@ -1,7 +1,7 @@
 # NewsPicGen
 
 NewsPicGen: News Picture Prompt Generation Model是一个中文新闻配图生成模型，使用[Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)作为基座模型，使用SFT进行微调。
-可以生成与新闻内容相关的高质量的中英双文配图prompt、中英双文关键字和绘画类型。直接通过Stable Diffusion生成配图，配置了多种绘图模板，可以生成多种风格的配图。
+可以生成与新闻内容相关的高质量的中英双文配图prompt、中英双文关键字和绘画类型。直接通过Stable Diffusion生成配图，可根据绘画类型配置不同的绘图模板，生成多种风格的配图。
 
 <table>
     <tr>
