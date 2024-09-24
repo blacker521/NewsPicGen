@@ -21,7 +21,7 @@ NewsPicGen: News Picture Prompt Generation Model是一个中文新闻配图生�
 </table>
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/blacker521/NewsPicGen/">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/models/blacker521/NewsPicGen">ModelScope</a>
+        🤗 <a href="https://huggingface.co/blacker521/NewsPicGen/">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/models/blacker521/NewsPicGen">ModelScope</a> &nbsp&nbsp | &nbsp&nbsp💻 <a href="https://github.com/blacker521/NewsPicGen">Github</a>
 </p>
 
 ## 样例
