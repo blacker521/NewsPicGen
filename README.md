@@ -80,7 +80,7 @@ NewsPicGen: News Picture Prompt Generation Model是一个中文新闻配图生�
 import json
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_name = "NewsPicGen"
+model_name = "blacker521/NewsPicGen"
 
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
