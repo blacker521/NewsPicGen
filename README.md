@@ -69,6 +69,7 @@ NewsPicGen: News Picture Prompt Generation Model是一个中文新闻配图生�
 ## 性能
 
 - 使用QWen2.5-1.5B-Instruct作为基座模型，中等长度新闻生成绘画指令平均耗时500ms（A100-80G），配合[SGLang](https://github.com/modelscope/sglang)/[vllm](https://github.com/vllm-project/vllm)等框架可以更快的生成绘画指令。
+- 可以在消费级显卡上运行。
 
 ## 快速开始
 
