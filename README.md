@@ -21,7 +21,7 @@ NewsPicGen: News Picture Prompt Generation Model是一个中文新闻配图生�
 </table>
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/blacker521/NewsPicGen/">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/models/blacker521/NewsPicGen">ModelScope</a> &nbsp&nbsp | &nbsp&nbsp💻 <a href="https://github.com/blacker521/NewsPicGen">Github</a>
+        🤗 <a href="https://huggingface.co/blacker521/NewsPicGen/">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/models/blacker521/NewsPicGen">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp💻 <a href="https://github.com/blacker521/NewsPicGen">Github</a>
 </p>
 
 ## 样例
@@ -36,25 +36,25 @@ NewsPicGen: News Picture Prompt Generation Model是一个中文新闻配图生�
         <th>图片</th>
     </tr>
     <tr>
-        <td>心脑血管疾病患者宜吃的“彩色”美食</td>
+        <td><a href="https://baijiahao.baidu.com/s?id=1810945829190023515">心脑血管疾病患者宜吃的“彩色”美食</a></td>
         <td>Draw a colorful dining table with various "colored" foods such as tomatoes, carrots, corn, spinach, and purple cabbage.</td>
         <td>心脑血管疾病，色彩守护</td>
         <td><img src="images/081800-fab7cae0-0426-4bf3-9221-9c5dee992caf-3998970961.png" alt="" style="zoom:50%;" /></td>
     </tr>
     <tr>
-        <td>3762人展示太极扇挑战成功！基尼斯世界纪录在广州黄埔龙湖诞生</td>
+        <td><a href="https://baijiahao.baidu.com/s?id=1810963351722892019">3762人展示太极扇挑战成功！基尼斯世界纪录在广州黄埔龙湖诞生</a></td>
         <td>The center of the picture is an elderly man in a Tai Chi suit, he is waving the red Tai Chi fan with perfect movements and full vitality...</td>
         <td>太极扇，传承千年文化</td>
         <td><img src="images/093033-278f8bc6-b333-4dea-bdd6-87b9ba480217-1377011191.png" alt="" style="zoom:50%;" /></td>
     </tr>
     <tr>
-        <td>点赞！青岛两名大学生捡到一斤多黄金交还失主!</td>
+        <td><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=3094286144295671472&source=50001&sub_source=50001_006">点赞！青岛两名大学生捡到一斤多黄金交还失主!</a></td>
         <td>Draw a scene of two college students carrying backpacks, smiling, finding a black business handbag on the roadside with some golden items inside, and police officers questioning around."</td>
         <td>大学生拾金不昧</td>
         <td><img src="images/093729-ec593819-c510-43f4-bffe-5645849898e3-717896971.png" alt="" style="zoom:50%;" /></td>
     </tr>
     <tr>
-        <td>驶向“未来之城”</td>
+        <td><a href="https://baijiahao.baidu.com/s?id=1810886409729822758">驶向“未来之城”</a></td>
         <td>Draw a city background with high-tech elements in the middle, surrounded by various types of flying machines. The color scheme is mainly blue and white to symbolize technology and futurism.</td>
         <td>驶向未来，智行天下！</td>
         <td><img src="images/093930-171781b5-c41e-44f2-94dd-adb7d324b7db-1838043457.png" alt="" style="zoom:50%;" /></td>
